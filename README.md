@@ -62,6 +62,8 @@ python main.py
 - Graphs and visualizations
 - Prediction results
 
+  <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/182f533f-803b-4dd3-9611-3e1300e36afb" />
+
 ## Future Enhancements
 - Hyperparameter tuning
 - Deep learning models
